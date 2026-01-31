@@ -1,0 +1,22 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.pdb
+
+# Logs
+*.log
+
+# OS Files
+*.DS_Store
+
+# Optional: Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Packages (optional)
+*.nupkg

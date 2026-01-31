@@ -1,0 +1,25 @@
+[
+  {
+    "Exchange": "ExchangeA",
+    "Bids": [
+      {
+        "Price": 2990,
+        "AmountBtc": 5
+      },
+      {
+        "Price": 2980,
+        "AmountBtc": 3
+      }
+    ],
+    "Asks": [
+      {
+        "Price": 3000,
+        "AmountBtc": 7
+      },
+      {
+        "Price": 3300,
+        "AmountBtc": 2
+      }
+    ]
+  }
+]

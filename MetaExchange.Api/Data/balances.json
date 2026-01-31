@@ -1,0 +1,12 @@
+[
+  {
+    "Exchange": "ExchangeA",
+    "Eur": 30000,
+    "Btc": 5
+  },
+  {
+    "Exchange": "ExchangeB",
+    "Eur": 10000,
+    "Btc": 3
+  }
+]
